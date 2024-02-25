@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    background-color: #111;
+}
+
+section .container {
+    min-height: 100vh;
+}
+
+hr {
+    width: 90%;
+}

@@ -1,0 +1,38 @@
+#pageKelas .container {
+    padding-top: 70px;
+}
+
+#pageKelas form {
+    width: 250px;
+}
+
+#pageKelas form input {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+    width: 100%;
+}
+
+#pageKelas form button {
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    background-color: #0090e5;
+    font-weight: bold;
+}
+
+#pageKelas a {
+    border-radius: 5px;
+    border: 2px solid #0090e5;
+    padding: 5px 10px;
+    color: #0090e5;
+    text-decoration: none;
+    width: 180px;
+    font-weight: bolder;
+}
+
+#pageKelas a:hover {
+    background-color: #0090e5;
+    color: white;
+}

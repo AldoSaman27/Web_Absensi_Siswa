@@ -1,0 +1,19 @@
+#pageLihatKelas .container {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+#pageLihatKelas table {
+    width: 335px;
+}
+
+#pageLihatKelas table th {
+    background-color: #0090e5;
+}
+
+#pageLihatKelas table th, 
+#pageLihatKelas table tr, 
+#pageLihatKelas table td {
+    border: 2px solid black;
+    padding: 5px;
+}

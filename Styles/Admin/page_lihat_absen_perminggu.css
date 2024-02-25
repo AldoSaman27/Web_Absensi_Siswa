@@ -1,0 +1,55 @@
+#pageLihatAbsenPerminggu .container {
+    padding-top: 70px;
+}
+
+#pageLihatAbsenPerminggu table {
+    width: 500px;
+}
+
+#pageLihatAbsenPerminggu table th {
+    background-color: #0090e5;
+}
+
+#pageLihatAbsenPerminggu table .jp {
+    width: 24px;
+}
+
+#pageLihatAbsenPerminggu table th, 
+#pageLihatAbsenPerminggu table tr, 
+#pageLihatAbsenPerminggu table td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#pageLihatAbsenPerminggu .Hadir,
+#pageLihatAbsenPerminggu .Tanpa,
+#pageLihatAbsenPerminggu .Sakit,
+#pageLihatAbsenPerminggu .Ijin {
+    color: black;
+}
+
+#pageLihatAbsenPerminggu .Hadir {
+    background-color: green;
+}
+
+#pageLihatAbsenPerminggu .Tanpa {
+    background-color: red;
+}
+
+#pageLihatAbsenPerminggu .Sakit {
+    background-color: yellow;
+}
+
+#pageLihatAbsenPerminggu .Ijin {
+    background-color: orange;
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px) {
+    #pageLihatAbsenPerminggu table {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 425px) and (max-width: 884px) {
+
+}
